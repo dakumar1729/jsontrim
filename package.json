@@ -1,0 +1,25 @@
+{
+  "name": "jsontrim",
+  "version": "1.0.0",
+  "description": "A node module for transforming and performing operations on JSON.",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"node_modules/jasmine-node/bin/jasmine-node test/\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dakumar1729/jsontrim.git"
+  },
+  "keywords": [
+    "json",
+    "node",
+    "trim",
+    "transform"
+  ],
+  "author": "Anil Kumar Dyavanapalli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dakumar1729/jsontrim/issues"
+  },
+  "homepage": "https://github.com/dakumar1729/jsontrim#readme"
+}
